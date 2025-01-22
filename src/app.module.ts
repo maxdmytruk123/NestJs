@@ -8,7 +8,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
   imports: [
     TypeOrmModule.forRoot({
       type: 'mysql',
-      url: 'mysql://root:jfgruLUFqOwmkilotwiASElRyXxRnkzP@junction.proxy.rlwy.net:56161/railway',
+      url: 'mysql://root:QSmXbIdscfpkzQvoNyLhmZfkLXNyKWPJ@autorack.proxy.rlwy.net:33664/railway',
       autoLoadEntities: true, 
       synchronize: true, 
     }),
